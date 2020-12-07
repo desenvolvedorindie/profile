@@ -4,7 +4,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS4-000000?style=flat&logo=CSS4)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![PHP](https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=3178c6)
 ![Yii](https://img.shields.io/badge/-Yii-222222?style=flat&logo=Yii&logoColor=E10098)
